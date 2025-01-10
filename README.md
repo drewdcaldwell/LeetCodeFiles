@@ -1,2 +1,0 @@
-# LeetCodeFiles
-This repository is going to act as a storage place for me to keep track of all of my daily leetcode problems
