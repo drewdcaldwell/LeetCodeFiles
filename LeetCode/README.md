@@ -3,4 +3,4 @@ This repository is going to act as a storage place for me to keep track of all o
 
 Starting doing LeetCode because I was preparing for internship/job interviews but never organized everything so one of my New Years resolutions for 2025 is to properly document and store my code so that I can easily find it, and in the future others may as well. (Not that anybody is interested in seeing my daily struggle on LeetCode, but maybe for my own reference.)
 
-I'd like to eventually start making videos talking about how I solve the problems but right now my schedule is not very allowing of that so I will just continue to develop my skills until then. If you are reading this and considering committing to doing LeetCode I highly recommend it! It changes the way you view certain tasks and problems. Best Wishes, Drew.
+I'd like to eventually start making videos talking about how I solve the problems but right now my schedule is not very allowing of that so I will just continue to develop my skills until then. If you are reading this and considering committing to doing LeetCode I highly recommend it! It changes the way you view certain tasks and problems. Best Wishes, Drew...
